@@ -27,15 +27,15 @@ const Navigation = () => {
               <PeopleIcon className="nav-icon" />
               Apoio Médico
             </Link>
-            <Link className="nav-link" to="/apoio-medico">
+            <Link className="nav-link" to="/recursos">
               <ResourcesIcon className="nav-icon" />
               Recursos
             </Link>
-            <Link className="nav-link" to="/apoio-medico">
+            <Link className="nav-link" to="/politicas">
               <DocumentIcon className="nav-icon" />
               Política
             </Link>
-            <Link className="nav-link" to="/apoio-medico">
+            <Link className="nav-link" to="/informacoes-uteis">
               <BookIcon className="nav-icon" />
               Informações Úteis
             </Link>
