@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/parentalidade/static/css/main.481fd103.css",
+    "main.js": "/parentalidade/static/js/main.2645be5a.js",
+    "static/media/suez-logo-1.svg": "/parentalidade/static/media/suez-logo-1.456d8b12602083d6e38a303332c254cc.svg",
+    "static/media/apps-outline.svg": "/parentalidade/static/media/apps-outline.0f19a5a07a7d945a9fdcdfdc480111de.svg",
+    "static/media/people-outline.svg": "/parentalidade/static/media/people-outline.4e60910369a903a9d68698ed9f484b98.svg",
+    "index.html": "/parentalidade/index.html",
+    "static/media/document-text-outline.svg": "/parentalidade/static/media/document-text-outline.2627d3185c40d6b1bd8d2197d5d2e903.svg",
+    "static/media/book-outline.svg": "/parentalidade/static/media/book-outline.600ff157aa72b0acbb5e4cb23cd9fc6c.svg",
+    "static/media/heart-outline.svg": "/parentalidade/static/media/heart-outline.c1c4496e9c54cd0f6f36566111f7e589.svg",
+    "main.481fd103.css.map": "/parentalidade/static/css/main.481fd103.css.map",
+    "main.2645be5a.js.map": "/parentalidade/static/js/main.2645be5a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.481fd103.css",
+    "static/js/main.2645be5a.js"
+  ]
+}
